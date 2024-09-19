@@ -1,0 +1,18 @@
+.green {
+  height: 100px;
+  width: 100px;
+  background-color: #00ff00;
+  z-index: 1;
+}
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: #ff0000;
+  z-index: 2;
+}
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: #0000ff;
+  z-index: 3;
+}
