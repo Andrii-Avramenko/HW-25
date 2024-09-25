@@ -1,18 +1,24 @@
-.green {
+.square {
+  position: absolute;
   height: 100px;
   width: 100px;
+}
+
+.green {
+  top: 100px;
+  left: 100px;
   background-color: #00ff00;
   z-index: 1;
 }
 .red {
-  height: 100px;
-  width: 100px;
+  top: 0;
+  left: 0;
   background-color: #ff0000;
   z-index: 2;
 }
 .blue {
-  height: 100px;
-  width: 100px;
+  top: 50px;
+  left: 50px;
   background-color: #0000ff;
   z-index: 3;
 }
