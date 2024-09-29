@@ -8,17 +8,15 @@
   top: 100px;
   left: 100px;
   background-color: #00ff00;
-  z-index: 1;
 }
 .red {
   top: 0;
   left: 0;
   background-color: #ff0000;
-  z-index: 2;
 }
 .blue {
   top: 50px;
   left: 50px;
   background-color: #0000ff;
-  z-index: 3;
+  z-index: 1;
 }
